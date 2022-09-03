@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preetamjoshi-PJ
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning SQL Database and working on some projects related to data analytics 
+- 🌱 I’m currently learning SQL and working on some projects related to data analytics 
 - 💞️ I’m looking to collaborate with you.
 - 📫 https://www.linkedin.com/in/preetam-joshi/
 
